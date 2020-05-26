@@ -19,8 +19,8 @@ Para tener un estimado de los kilos de alimentos a comprar, se sabe:
 Se requiere que la aplicación pueda: 
 1.	Agregar nuevos animales al zoológico.
 2.	Listar todos los animales con sus datos, y el consumo de comida del corriente mes, considerando los casos variables.
-3.	Poder conocer el total mensual de kilogramos necesarios de comida.
-4.	Advertir cada vez que se ingresa un animal la posibilidad de que se excedan los 1500 kilos de comida del corriente mes.
+3.	Poder conocer el total mensual de kilogramos necesarios de comida (discriminando carnes y hierbas).
+4.	Advertir cada vez que se ingresa un animal la posibilidad de que se excedan los 1500 kilos de comida del corriente mes, incluyendo ambos tipos de alimentos.
  
 ###### NOTAS:
 Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones, Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
