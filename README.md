@@ -1,6 +1,10 @@
-Code Challenge
+# Cultura IT - Code Challenge
 
-EL ZOOLÓGICO
+Bienvenidos!
+
+Estamos buscando desarrolladores .NET para que se incorporen a nuestro equipo de trabajo. Con el fin de validar todos tus conocimientos, quién mejor que el código para comprobarlo. Por lo cual te proponemos que nos ayudes a resolver un problema, por favor tomate un tiempo para pensarlo y resolverlo.
+
+## EL ZOOLÓGICO
 
 Se trata de un zoológico que solo cuenta con determinados animales mamíferos.            
 Cuando un nuevo animal llega al zoológico, se completa una ficha con sus datos: fecha de ingreso, especie, edad, lugar de origen y peso.
@@ -14,5 +18,7 @@ Se requiere que la aplicación pueda:
 3.	Poder conocer el total mensual de kilogramos necesarios de comida.
 4.	Advertir cada vez que se ingresa un animal la posibilidad de que se excedan los 1500 kilos de comida del corriente mes.
  
-NOTAS:
-Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones, Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas. 
+###### NOTAS:
+Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones, Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
+
+## Cómo 
