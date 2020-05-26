@@ -2,7 +2,8 @@
 
 Bienvenidos!
 
-Estamos buscando desarrolladores .NET para que se incorporen a nuestro equipo de trabajo. Con el fin de validar todos tus conocimientos, quién mejor que el código para comprobarlo. Por lo cual te proponemos que nos ayudes a resolver un problema, por favor tomate un tiempo para pensarlo y resolverlo.
+Estamos buscando desarrolladores .NET para incorporar a nuestro equipo de trabajo. 
+Con el fin de validar tus conocimientos, quién mejor que el código para comprobarlo. Por lo cual te proponemos que nos ayudes a resolver el siguiente problema; por favor tomate un tiempo para pensarlo y resolverlo.
 
 ## EL ZOOLÓGICO
 
@@ -21,4 +22,8 @@ Se requiere que la aplicación pueda:
 ###### NOTAS:
 Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones, Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
 
-## Cómo 
+###### Cómo presentar la solución
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a git@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
+
+
+**Buena Suerte!!!**
