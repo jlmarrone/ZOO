@@ -1,4 +1,4 @@
-#Code Challenge
+Code Challenge
 
 EL ZOOLÓGICO
 
