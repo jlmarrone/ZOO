@@ -15,6 +15,7 @@ Para tener un estimado de los kilos de alimentos a comprar, se sabe:
 * Los carnívoros comen a diario un determinado porcentaje de su peso en carne, que depende exclusivamente de cada uno. 
 * Los herbívoros comen, por día, 2 veces su peso en hierbas, más un valor fijo (en kilos) que depende, también, de cada animal.
 * Los reptiles comen, por semana, un cierto porcentaje de su peso en carne y hierbas. Además éstos poseen un dato que indica cada cuantos días se realiza el cambio de piel. Cuando comienza dicho período, el reptil inicia un proceso de recuperación por lo que durante 3 días no se alimenta.
+
 Se requiere que la aplicación pueda: 
 1.	Agregar nuevos animales al zoológico.
 2.	Listar todos los animales con sus datos, y el consumo de comida del corriente mes, considerando los casos variables.
