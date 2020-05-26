@@ -773,7 +773,6 @@ C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\ru\Mic
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.csprojAssemblyReference.cache
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.csproj.CoreCompileInputs.cache
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.MvcApplicationPartsAssemblyInfo.cs
 C:\_Sources\CulturaIT\CodeChallenge\CodeChallenge\obj\Debug\netcoreapp3.1\CodeChallenge.MvcApplicationPartsAssemblyInfo.cache
