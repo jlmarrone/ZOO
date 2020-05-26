@@ -1,6 +1,6 @@
 #Code Challenge
 
-#EL ZOOLÓGICO
+EL ZOOLÓGICO
 
 Se trata de un zoológico que solo cuenta con determinados animales mamíferos.            
 Cuando un nuevo animal llega al zoológico, se completa una ficha con sus datos: fecha de ingreso, especie, edad, lugar de origen y peso.
