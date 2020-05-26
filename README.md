@@ -23,10 +23,10 @@ Se requiere que la aplicación pueda:
 4.	Advertir cada vez que se ingresa un animal la posibilidad de que se excedan los 1500 kilos de comida del corriente mes, incluyendo ambos tipos de alimentos.
  
 ###### NOTAS:
-Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones, Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
+Dentro del proyecto encontrarás una serie de tests unitarios (NUnit test) que describen el comportamiento del cálculo. Actualmente, tenemos los cálculos correspondientes pero no coinciden, necesitamos que lo soluciones. Además es necesario agregar nuevos test para validar las nuevas funcionalidades implementadas.
 
 ### Cómo presentar la solución
-Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a git@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a fsare@culturait.com.ar con el link de descarga, además podes agregar cualquier comentario que creas correspondiente.
 
 
-**Buena Suerte!!!**
+**Happy hacking!**
