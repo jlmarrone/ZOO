@@ -1,3 +1,53 @@
 ﻿@page "/index"
+@inject CodeChallenge.Data.ZoologicoServicio _zoologicoServicio
 
-<h1>Cultura IT</h1>
+<h1>Listado de Animales</h1>
+
+<TableTemplate Items="_animals">
+    <TableHeader>
+        <th>Tipo</th>
+        <th>Especie</th>
+        <th>Edad</th>
+        <th>Lugar de Origen</th>
+        <th>Peso</th>
+        <th>Kilos Mensuales de Alimento que consume:</th>
+    </TableHeader>
+    <RowTemplate>
+        <td>@LoadAnimalType(context)</td>
+        <td>@context.Especie</td>
+        <td>@context.Edad</td>
+        <td>@context.LugarOrigen</td>
+        <td>@context.Peso</td>
+        <td>@context.CalcularAlimento()</td>
+    </RowTemplate>
+</TableTemplate>
+
+<div class="col-md-12">
+    <div class="col-md-6">
+        <p>Consumo Total de Hierbas: @_totalHierbas</p>
+    </div>
+
+    <div class="col-md-6">
+        <p>Consumo Total de Carnes: @_totalCarnes</p>
+    </div>
+</div>
+
+
+@code {
+    private List<CodeChallenge.Data.Model.Animal> _animals;
+    private double _totalHierbas;
+    private double _totalCarnes;
+
+    protected override Task OnInitializedAsync()
+    {
+        _animals = _zoologicoServicio.GetAnimals();
+        _totalHierbas = _zoologicoServicio.CalcularConsumoMensualHierbas();
+        _totalCarnes = _zoologicoServicio.CalcularConsumoMensualCarne();
+        return base.OnInitializedAsync();
+    }
+
+    private string LoadAnimalType(CodeChallenge.Data.Model.Animal animal)
+    {
+        return _zoologicoServicio.LoadAnimalType(animal);
+    }
+}
